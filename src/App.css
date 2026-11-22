@@ -1039,6 +1039,21 @@
   gap: 0.35rem;
 }
 
+.footer-automation-note {
+  max-width: 1140px;
+  margin: 0.85rem auto 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border-subtle);
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.footer-automation-note p {
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+
 /* Utility Helpers */
 .text-indigo { color: #818cf8; }
 .text-emerald { color: #34d399; }
