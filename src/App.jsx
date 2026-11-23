@@ -148,7 +148,7 @@ export default function App() {
           </div>
         </div>
         <div className="footer-automation-note">
-          <p>Updated automatically using GitHub Actions CI/CD</p>
+          <p>Now I understand how CI/CD works!</p>
         </div>
       </footer>
     </div>
